@@ -1,0 +1,3 @@
+﻿  test.c
+E:\代码\VS\exercises_4_4\exercises_4_4\test.c(212,16): warning C4476: "printf": 格式说明符中的类型字段字符“Y”未知
+  exercises_4_4.vcxproj -> E:\代码\VS\exercises_4_4\Debug\exercises_4_4.exe
