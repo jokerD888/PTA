@@ -1,0 +1,5 @@
+﻿  test.c
+E:\代码\VS\exercises_4_6\exercises_4_6\test.c(81,28): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\代码\VS\exercises_4_6\exercises_4_6\test.c(73,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\代码\VS\exercises_4_6\exercises_4_6\test.c(74,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  exercises_4_6.vcxproj -> E:\代码\VS\exercises_4_6\Debug\exercises_4_6.exe
