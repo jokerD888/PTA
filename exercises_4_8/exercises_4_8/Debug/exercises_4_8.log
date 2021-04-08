@@ -1,0 +1,7 @@
+﻿  test.c
+E:\代码\VS\exercises_4_8\exercises_4_8\test.c(153,23): warning C4013: “malloc”未定义；假设外部返回 int
+E:\代码\VS\exercises_4_8\exercises_4_8\test.c(169,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\代码\VS\exercises_4_8\exercises_4_8\test.c(169,10): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+E:\代码\VS\exercises_4_8\exercises_4_8\test.c(169,10): message : 缺失的可变参数 1 为格式字符串“%d”所需
+E:\代码\VS\exercises_4_8\exercises_4_8\test.c(172,6): warning C4013: “free”未定义；假设外部返回 int
+  exercises_4_8.vcxproj -> E:\代码\VS\exercises_4_8\Debug\exercises_4_8.exe
