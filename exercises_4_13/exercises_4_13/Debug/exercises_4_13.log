@@ -1,0 +1,8 @@
+﻿  test.c
+E:\代码\VS\exercises_4_13\exercises_4_13\test.c(80,31): warning C4013: “malloc”未定义；假设外部返回 int
+E:\代码\VS\exercises_4_13\exercises_4_13\test.c(84,7): warning C4013: “gets”未定义；假设外部返回 int
+E:\代码\VS\exercises_4_13\exercises_4_13\test.c(88,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\代码\VS\exercises_4_13\exercises_4_13\test.c(94,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\代码\VS\exercises_4_13\exercises_4_13\test.c(99,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\代码\VS\exercises_4_13\exercises_4_13\test.c(108,6): warning C4013: “free”未定义；假设外部返回 int
+  exercises_4_13.vcxproj -> E:\代码\VS\exercises_4_13\Debug\exercises_4_13.exe
