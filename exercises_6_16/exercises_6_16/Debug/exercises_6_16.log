@@ -1,0 +1,4 @@
+﻿  test.c
+E:\代码\VS\exercises_6_16\exercises_6_16\test.c(122,27): warning C4013: “malloc”未定义；假设外部返回 int
+E:\代码\VS\exercises_6_16\exercises_6_16\test.c(135,6): warning C4013: “gets”未定义；假设外部返回 int
+  exercises_6_16.vcxproj -> E:\代码\VS\exercises_6_16\Debug\exercises_6_16.exe
